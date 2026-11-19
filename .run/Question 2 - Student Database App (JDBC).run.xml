@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Question 2 - Student Database App (JDBC)" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="question2.StudentDatabaseApp" />
-    <module name="question2-mysql-database" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
-  </configuration>
-</component>
