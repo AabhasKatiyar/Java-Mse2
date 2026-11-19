@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StudentManagementApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.studentmanagement.StudentManagementApplication" />
+    <module name="java-mse2-root" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

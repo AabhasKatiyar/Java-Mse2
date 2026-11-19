@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Question 3 - Spring Boot REST API" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.studentmanagement.StudentManagementApplication" />
+    <module name="student-management-api" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

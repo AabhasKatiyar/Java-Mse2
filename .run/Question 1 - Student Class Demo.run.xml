@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Question 1 - Student Class Demo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="question1.Main" />
+    <module name="question1-student-class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
